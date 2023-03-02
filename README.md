@@ -1,0 +1,3 @@
+# Scientific-Computing
+
+Contains codes related to Errors; Iterative methods for nonlinear equations; Polynomial interpolation, spline interpolations; Numerical integration based on interpolation, quadrature methods, Gaussian quadrature; Initial value problems for ordinary differential equations - Euler method, Runge-Kutta methods, multi-step methods, predictor-corrector method, stability and convergence analysis; Finite difference schemes for partial differential equations - Explicit and implicit schemes; Consistency, stability and convergence; Stability analysis (matrix method and von Neumann method), Lax equivalence theorem; Finite difference schemes for initial and boundary value problems
